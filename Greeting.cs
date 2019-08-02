@@ -10,4 +10,8 @@ public class Greeting{
 	public string greeting3(){
 		return "Sat shri kaal";
 	}
+	
+	public string greeting3(){
+		return "Ram Ram";
+	}
 }
